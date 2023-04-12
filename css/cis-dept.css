@@ -7,7 +7,7 @@ ol~p {
 }
 
 ol>li {
-  color: coral;
+  color: rgb(255, 80, 170);
   line-height: 1.4em;
   font-weight: bold;
 }
